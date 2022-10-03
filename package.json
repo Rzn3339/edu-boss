@@ -10,6 +10,7 @@
   "dependencies": {
     "core-js": "^3.8.3",
     "element-ui": "^2.15.10",
+    "lint": "^0.7.0",
     "standard": "^17.0.0",
     "vue": "^2.6.14",
     "vue-router": "^3.5.1",
